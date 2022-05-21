@@ -1,0 +1,7 @@
+D:\Document\SharpDevelop Projects\U&D_File\obj\Debug\U&D_File.csprojResolveAssemblyReference.cache
+D:\Document\SharpDevelop Projects\U&D_File\obj\Debug\U_D_File.MainForm.resources
+D:\Document\SharpDevelop Projects\U&D_File\obj\Debug\U&D_File.csproj.GenerateResource.Cache
+D:\Document\SharpDevelop Projects\U&D_File\bin\Debug\U&D_File.exe
+D:\Document\SharpDevelop Projects\U&D_File\bin\Debug\U&D_File.pdb
+D:\Document\SharpDevelop Projects\U&D_File\obj\Debug\U&D_File.exe
+D:\Document\SharpDevelop Projects\U&D_File\obj\Debug\U&D_File.pdb
